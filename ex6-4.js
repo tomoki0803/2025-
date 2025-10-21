@@ -1,1 +1,1 @@
-Goodbye. saygoodbye(){alert(`Goodbye.`);}
+saygoodbye(){alert(`Goodbye.`);}
