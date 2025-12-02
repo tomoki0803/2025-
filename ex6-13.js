@@ -1,5 +1,5 @@
 function imagechange1()
-{document.getElementById('who613').innerHTML='<img src="./image/image5.png"alt="オフ"　class="imagechange">';} 
+{document.getElementById('who613').innerHTML='<img src="./image/image5.png"alt="オフ"　class="imagechange" style="width:500px; height:200px;">';} 
 
 function imagechange2()
 {document.getElementById('who613').innerHTML='<img src="./image/image6.jpg"alt="オン" class="imagechange">';}
