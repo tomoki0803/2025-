@@ -4,7 +4,7 @@ var str17="1文字ずつ表示します。";
 //テキストボックスの文字数
 var cnt17=document.timer17.moji17.value.length;
 //文字が全部表示されているか確認
-if(cnt17<1){
+if(cnt17<11){
 //現在より1文字多く切り出して表示
 document.timer17.moji17.value=str17.substr(0,cnt17+1);}else{
 //全て表示されたら、空文字に戻す
